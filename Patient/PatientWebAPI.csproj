@@ -226,6 +226,11 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202210110615531_update.cs" />
+    <Compile Include="Migrations\202210110615531_update.Designer.cs">
+      <DependentUpon>202210110615531_update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountBindingModels.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\IdentityModels.cs" />
@@ -323,10 +328,19 @@
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\DTOLayer\DTOLayer.csproj">
+      <Project>{AB47F9F6-1A2E-4E39-B227-A6C2F5401E6B}</Project>
+      <Name>DTOLayer</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Patient.BusinessLayer\Patient.BusinessLayer.csproj">
       <Project>{b01a3c47-d780-4750-84df-ad507527244a}</Project>
       <Name>Patient.BusinessLayer</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202210110615531_update.resx">
+      <DependentUpon>202210110615531_update.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

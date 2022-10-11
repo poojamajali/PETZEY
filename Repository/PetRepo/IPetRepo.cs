@@ -8,5 +8,8 @@ namespace Repository.PetRepo
         List<Pet> GetAllPets();
         bool AddPet(Pet pet);
         bool GetPetById(long id);
+        List<Pet> GetAllPetsByOwnerID(long ownerId);
+        bool EditPet(Pet pet);
+        bool DeletePetById(long petId);
     }
 }

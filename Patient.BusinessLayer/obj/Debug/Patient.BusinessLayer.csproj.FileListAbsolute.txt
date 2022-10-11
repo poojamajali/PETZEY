@@ -4,3 +4,12 @@ C:\Users\Admin\Desktop\PETZY\PATIENT\Patient.BusinessLayer\obj\Debug\Patient.Bus
 C:\Users\Admin\Desktop\PETZY\PATIENT\Patient.BusinessLayer\obj\Debug\Patient.BusinessLayer.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\PETZY\PATIENT\Patient.BusinessLayer\obj\Debug\Patient.BusinessLayer.dll
 C:\Users\Admin\Desktop\PETZY\PATIENT\Patient.BusinessLayer\obj\Debug\Patient.BusinessLayer.pdb
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patient.BusinessLayer\bin\Debug\Patient.BusinessLayer.dll
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patient.BusinessLayer\bin\Debug\Patient.BusinessLayer.pdb
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patient.BusinessLayer\bin\Debug\DTOLayer.dll
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patient.BusinessLayer\bin\Debug\DTOLayer.pdb
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patient.BusinessLayer\obj\Debug\Patient.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patient.BusinessLayer\obj\Debug\Patient.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patient.BusinessLayer\obj\Debug\Patient.BusinessLayer.csproj.CopyComplete
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patient.BusinessLayer\obj\Debug\Patient.BusinessLayer.dll
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patient.BusinessLayer\obj\Debug\Patient.BusinessLayer.pdb

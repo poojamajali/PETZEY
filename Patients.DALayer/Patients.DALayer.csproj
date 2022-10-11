@@ -51,26 +51,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="MODELS\DbContextPatients.cs" />
     <Compile Include="MODELS\ENTITIES\Allergy.cs" />
     <Compile Include="MODELS\ENTITIES\GenderType.cs" />
-    <Compile Include="MODELS\ENTITIES\Pet.cs" />
     <Compile Include="MODELS\ENTITIES\Owner.cs" />
+    <Compile Include="MODELS\ENTITIES\Pet.cs" />
     <Compile Include="MODELS\ENTITIES\SpeciesType.cs" />
-    <Compile Include="MODELS\Owner.DAL\IOwnerRepo.cs" />
-    <Compile Include="MODELS\Pet.DAL\IPetRepo.cs" />
-    <Compile Include="MODELS\Owner.DAL\OwnerRepo.cs" />
-    <Compile Include="MODELS\Pet.DAL\PetRepo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="MODELS\DATA\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Content Include="App_Readme\Elmah.txt" />
   </ItemGroup>

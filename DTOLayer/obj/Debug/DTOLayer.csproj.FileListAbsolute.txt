@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\DTOLayer\bin\Debug\DTOLayer.dll
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\DTOLayer\bin\Debug\DTOLayer.pdb
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\DTOLayer\obj\Debug\DTOLayer.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\DTOLayer\obj\Debug\DTOLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\DTOLayer\obj\Debug\DTOLayer.dll
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\DTOLayer\obj\Debug\DTOLayer.pdb

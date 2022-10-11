@@ -11,6 +11,11 @@ namespace Repository.OwnerRepo
             throw new NotImplementedException();
         }
 
+        public bool EditOwner(Owner owner)
+        {
+            throw new NotImplementedException();
+        }
+
         public List<Owner> GetAllOwners()
         {
             throw new NotImplementedException();

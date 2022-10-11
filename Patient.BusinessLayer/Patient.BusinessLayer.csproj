@@ -41,14 +41,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Owner.Business\IOwnerManager.cs" />
-    <Compile Include="Pet.Business\IPetManager.cs" />
-    <Compile Include="Owner.Business\OwnerManager.cs" />
-    <Compile Include="Pet.Business\PetManager.cs" />
+    <Compile Include="OwnerBusiness\IOwnerManager.cs" />
+    <Compile Include="PetBusiness\IPetManager.cs" />
+    <Compile Include="OwnerBusiness\OwnerManager.cs" />
+    <Compile Include="PetBusiness\PetManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Mappers\" />
+    <ProjectReference Include="..\DTOLayer\DTOLayer.csproj">
+      <Project>{AB47F9F6-1A2E-4E39-B227-A6C2F5401E6B}</Project>
+      <Name>DTOLayer</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
