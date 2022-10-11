@@ -32,14 +32,14 @@ namespace Repository.PetRepo
         public bool EditPet(Pet pet)
         {
             var petnew = db.Pets.Find(pet.PetId);
-            if(petnew != null)
+            if (petnew != null)
             {
                 db.Entry(pet).State = System.Data.Entity.EntityState.Modified;
                 db.SaveChanges();
                 return true;
             }
-            return false;         
-        }     
+            return false;
+        }
 
         public List<Pet> GetAllPets()
         {
@@ -48,12 +48,13 @@ namespace Repository.PetRepo
 
         public List<Pet> GetAllPetsByOwnerID(long ownerId)
         {
-            throw new NotImplementedException();
+            return db.Owners.Find(ownerId).Pets.ToList();
         }
 
-        public bool GetPetById(long id)
+        public Pet GetPetById(long id)
         {
-            throw new NotImplementedException();
+            return db.Pets.Find(id);
+
         }
     }
 

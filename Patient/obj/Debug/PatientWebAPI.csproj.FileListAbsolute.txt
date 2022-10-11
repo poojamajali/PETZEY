@@ -254,3 +254,9 @@ C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patient\obj\Debug\Patient.dll
 C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patient\obj\Debug\Patient.pdb
 C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patient\obj\Debug\Patient.Migrations.update.resources
 C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patient\obj\Debug\PatientWebAPI.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patient\bin\Patients.DALayer.dll
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patient\bin\Repository.dll
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patient\bin\Patients.DALayer.pdb
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patient\bin\Patients.DALayer.dll.config
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patient\bin\Repository.pdb
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patient\bin\Repository.dll.config

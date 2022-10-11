@@ -46,5 +46,11 @@
     <Compile Include="PetDto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Patients.DALayer\Patients.DALayer.csproj">
+      <Project>{999EC6A2-88CA-4DCE-89C1-C156C8C663CB}</Project>
+      <Name>Patients.DALayer</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

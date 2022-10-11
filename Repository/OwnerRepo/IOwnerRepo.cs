@@ -7,8 +7,8 @@ namespace Repository.OwnerRepo
     {
         List<Owner> GetAllOwners();
         bool AddOwner(Owner owner);
-        bool GetOwnerById(long id);
+        Owner GetOwnerById(long id);
         bool EditOwner(Owner owner);
-       
+
     }
 }

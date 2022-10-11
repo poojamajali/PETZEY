@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Repository\bin\Debug\Repository.dll.config
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Repository\bin\Debug\Repository.dll
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Repository\bin\Debug\Repository.pdb
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Repository\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Repository\bin\Debug\Patients.DALayer.dll
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Repository\bin\Debug\Patients.DALayer.pdb
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Repository\bin\Debug\Patients.DALayer.dll.config
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Repository\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Repository\obj\Debug\Repository.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Repository\obj\Debug\Repository.dll
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Repository\obj\Debug\Repository.pdb

@@ -13,3 +13,11 @@ C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patient.BusinessLayer\obj\Deb
 C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patient.BusinessLayer\obj\Debug\Patient.BusinessLayer.csproj.CopyComplete
 C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patient.BusinessLayer\obj\Debug\Patient.BusinessLayer.dll
 C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patient.BusinessLayer\obj\Debug\Patient.BusinessLayer.pdb
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patient.BusinessLayer\bin\Debug\Patients.DALayer.dll
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patient.BusinessLayer\bin\Debug\Repository.dll
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patient.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patient.BusinessLayer\bin\Debug\Patients.DALayer.pdb
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patient.BusinessLayer\bin\Debug\Patients.DALayer.dll.config
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patient.BusinessLayer\bin\Debug\Repository.pdb
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patient.BusinessLayer\bin\Debug\Repository.dll.config
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patient.BusinessLayer\bin\Debug\EntityFramework.xml

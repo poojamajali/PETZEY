@@ -7,5 +7,7 @@ namespace Patient.BusinessLayer.OwnerBusiness
     {
         List<OwnerDto> GetAllOwners();
         bool AddOwner(OwnerDto owner);
+        OwnerDto GetOwnerById(long id);
+        bool EditOwner(OwnerDto owner);
     }
 }

@@ -10,3 +10,16 @@ C:\Users\Admin\Desktop\PETZY\PATIENT\Patients.DALayer\obj\Debug\Patients.DALayer
 C:\Users\Admin\Desktop\PETZY\PATIENT\Patients.DALayer\obj\Debug\Patients.DALayer.csproj.CopyComplete
 C:\Users\Admin\Desktop\PETZY\PATIENT\Patients.DALayer\obj\Debug\Patients.DALayer.dll
 C:\Users\Admin\Desktop\PETZY\PATIENT\Patients.DALayer\obj\Debug\Patients.DALayer.pdb
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patients.DALayer\bin\Debug\Patients.DALayer.dll.config
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patients.DALayer\bin\Debug\Patients.DALayer.dll
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patients.DALayer\bin\Debug\Patients.DALayer.pdb
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patients.DALayer\bin\Debug\Elmah.dll
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patients.DALayer\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patients.DALayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patients.DALayer\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patients.DALayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patients.DALayer\obj\Debug\Patients.DALayer.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patients.DALayer\obj\Debug\Patients.DALayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patients.DALayer\obj\Debug\Patients.DALayer.csproj.CopyComplete
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patients.DALayer\obj\Debug\Patients.DALayer.dll
+C:\Users\Admin\Desktop\PETZY\PETZY\PATIENT\PATIENT\Patients.DALayer\obj\Debug\Patients.DALayer.pdb

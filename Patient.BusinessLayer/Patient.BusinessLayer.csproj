@@ -41,6 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MAPPER\OwnerDtoMapper.cs" />
+    <Compile Include="MAPPER\PetDtoMapper.cs" />
     <Compile Include="OwnerBusiness\IOwnerManager.cs" />
     <Compile Include="PetBusiness\IPetManager.cs" />
     <Compile Include="OwnerBusiness\OwnerManager.cs" />
@@ -51,6 +53,14 @@
     <ProjectReference Include="..\DTOLayer\DTOLayer.csproj">
       <Project>{AB47F9F6-1A2E-4E39-B227-A6C2F5401E6B}</Project>
       <Name>DTOLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Patients.DALayer\Patients.DALayer.csproj">
+      <Project>{999EC6A2-88CA-4DCE-89C1-C156C8C663CB}</Project>
+      <Name>Patients.DALayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Repository\Repository.csproj">
+      <Project>{DE523F10-302D-4490-B8BA-2B3A2C65FD41}</Project>
+      <Name>Repository</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

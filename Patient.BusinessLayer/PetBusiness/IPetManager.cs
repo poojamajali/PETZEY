@@ -7,6 +7,10 @@ namespace Patient.BusinessLayer.INTERFACE
     {
         List<PetDto> GetAllPets();
         bool AddPet(PetDto p);
+        PetDto GetPetById(long id);
+        List<PetDto> GetAllPetsByOwnerID(long ownerId);
+        bool EditPet(PetDto pet);
+        bool DeletePetById(long petId);
 
     }
 }

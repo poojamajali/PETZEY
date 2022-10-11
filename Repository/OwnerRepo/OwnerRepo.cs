@@ -1,34 +1,43 @@
-﻿using Patients.DALayer.MODELS.ENTITIES;
+﻿using Patients.DALayer.MODELS.DATA;
+using Patients.DALayer.MODELS.ENTITIES;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Repository.OwnerRepo
 {
     public class OwnerRepo : IOwnerRepo
     {
+        DbContextPatients db = new DbContextPatients();
         public bool AddOwner(Owner owner)
         {
-            throw new NotImplementedException();
+            db.Owners.Add(owner);
+            db.SaveChanges();
+            return true;
         }
 
         public bool EditOwner(Owner owner)
         {
-            throw new NotImplementedException();
+            var ownernew = db.Owners.Find(owner.OwnerId);
+            if (ownernew != null)
+            {
+                db.Entry(owner).State = System.Data.Entity.EntityState.Modified;
+                db.SaveChanges();
+                return true;
+            }
+            return false;
         }
 
         public List<Owner> GetAllOwners()
         {
-            throw new NotImplementedException();
+            return db.Owners.ToList();
         }
 
-        public List<Pet> GetAllPets(long OwnerId)
-        {
-            throw new NotImplementedException();
-        }
 
-        public bool GetOwnerById(long id)
+
+        public Owner GetOwnerById(long id)
         {
-            throw new NotImplementedException();
+            return db.Owners.Find(id);
         }
     }
 

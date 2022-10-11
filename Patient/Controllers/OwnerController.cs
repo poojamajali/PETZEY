@@ -22,12 +22,37 @@ namespace Patient.Controllers
             List<OwnerDto> owners = ownerManager.GetAllOwners();
             return Ok(owners);
         }
+        [Route("api/patient/owner/{id}")]
+        public IHttpActionResult GetOwnerById(long id)
+        {
+            var Owner = ownerManager.GetOwnerById(id);
+            if (Owner != null)
+            {
+                return Ok(Owner);
+            }
+            else
+            {
+                return BadRequest();
+            }
+        }
+
         [HttpPost]
         public IHttpActionResult PostOwner(OwnerDto owner)
         {
             if (ownerManager.AddOwner(owner))
                 return Ok();
             else return BadRequest();
+        }
+        public IHttpActionResult Edit(OwnerDto owner)
+        {
+            if (ownerManager.EditOwner(owner) && ModelState.IsValid)
+            {
+                return Ok();
+            }
+            else
+            {
+                return BadRequest();
+            }
         }
     }
 }
